@@ -1,0 +1,8 @@
+cdn_name,rows,share_pct,unique_client_ips,unique_client_ip_share_pct,unique_streams,unique_stream_share_pct
+wangsu,1150830,71.0051,1280,72.3164,1439,67.2744
+tencent,387791,23.9263,486,27.4576,476,22.2534
+fcdn,33581,2.0719,104,5.8757,108,5.0491
+hw,28228,1.7416,57,3.2203,55,2.5713
+baidu,15230,0.9397,37,2.0904,32,1.496
+ksyun,3112,0.192,24,1.3559,23,1.0753
+telecom_cdn,1999,0.1233,7,0.3955,6,0.2805

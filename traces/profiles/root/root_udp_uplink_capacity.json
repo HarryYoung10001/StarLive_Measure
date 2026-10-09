@@ -1,0 +1,9 @@
+{
+  "schema_version": 3,
+  "name": "root_udp_uplink_capacity",
+  "workload": {"kind": "iperf3", "direction": "uplink", "rate": "80M", "duration_s": 30, "interval_s": 0.2, "payload_bytes": 1200},
+  "roles": {"required": ["udp_sender"], "optional": ["icmp_phone"]},
+  "collection": {"mode": "root", "root_executor": "su", "require_uid": 0, "phone_capture": true, "server_capture": true, "pcap_snaplen": 256, "pcap_buffer_mb": 8, "pcap_retention": "phone_ledger_local_server_remote"},
+  "clock_sync": {"required": false, "max_uncertainty_ms": 5.0},
+  "server": {"port": 5201}
+}

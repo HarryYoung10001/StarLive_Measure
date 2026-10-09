@@ -1,0 +1,11 @@
+series_id,stream_name,country,country_code,region,city,cdn_name,os,app,samples,nonzero_rtt_samples,nonzero_bwe_samples,nonzero_real_bitrate_samples,first_timestamp_utc,last_timestamp_utc
+S1,stream-119921378062237841,Tanzania,TZ,Dodoma,Dodoma,tencent,ios,stage,60,60,60,60,2026-08-17T13:25:01.787+00:00,2026-08-17T13:29:56.790+00:00
+S2,stream-119921650125766801,Mongolia,MN,Ulaanbaatar Hot,Ulaanbaatar,tencent,android,stage,60,60,60,60,2026-08-17T13:25:03.463+00:00,2026-08-17T13:29:58.993+00:00
+S3,stream-408151476580647057,Japan,JP,Tokyo,Tokyo,tencent,ios,stage,60,60,60,60,2026-08-17T13:25:04.523+00:00,2026-08-17T13:29:59.535+00:00
+S4,stream-408151542146007070,Indonesia,ID,East Java,Surabaya,wangsu,ios,stage,60,60,60,60,2026-08-17T13:25:02.090+00:00,2026-08-17T13:29:56.999+00:00
+S5,stream-408151810649620625,Sri Lanka,LK,Western Province,Colombo,tencent,ios,stage,60,60,60,60,2026-08-17T13:25:02.222+00:00,2026-08-17T13:29:57.214+00:00
+S6,stream-408151954396020766,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,wangsu,android,stage,60,60,60,60,2026-08-17T13:25:01.362+00:00,2026-08-17T13:29:59.480+00:00
+S7,stream-408152029166829713,Argentina,AR,Buenos Aires F.D.,Buenos Aires,tencent,ios,stage,60,60,60,60,2026-08-17T13:25:03.033+00:00,2026-08-17T13:29:58.037+00:00
+S8,stream-696382197938258360,Myanmar,MM,Rangoon,Yangon,baidu,android,stage,60,60,60,60,2026-08-17T13:25:02.042+00:00,2026-08-17T13:29:59.563+00:00
+S9,stream-696382263448567838,Australia,AU,Victoria,Melbourne,wangsu,ios,stage,60,60,60,60,2026-08-17T13:25:02.215+00:00,2026-08-17T13:29:57.233+00:00
+S10,stream-119921503366283294,France,FR,Île-de-France,Paris,wangsu,ios,stage,59,57,59,59,2026-08-17T13:25:03.770+00:00,2026-08-17T13:29:59.418+00:00

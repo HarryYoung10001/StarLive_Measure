@@ -1,0 +1,24 @@
+.venv/
+*.egg-info/
+.trace-build/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.swp
+*.tmp
+
+# Runtime output; historical files migrated into these directories are kept locally.
+traces/logs/*
+!traces/logs/README.md
+measurement/logs/*
+!measurement/logs/README.md
+douyin_logs/logs/*
+demo_test/logs/*
+runtime/server/logs/*
+logs/*
+server_receiver/logs/*
+server_receiver/tmp/*
+
+# Downloaded map/geolocation caches.
+online/analysis/.natural_earth/
+online/analysis/.ip_geolocation_cache.json

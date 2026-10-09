@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "name": "udp_uplink_latency_bandwidth",
+  "workload": {
+    "kind": "udp_flow",
+    "direction": "uplink",
+    "rate": "80M",
+    "duration_s": 30,
+    "interval_s": 0.2,
+    "payload_bytes": 1472,
+    "postprocess": "both",
+    "window_ms": 10
+  },
+  "roles": {
+    "required": ["udp_sender"],
+    "optional": ["icmp_phone"]
+  },
+  "icmp": {
+    "enabled": true,
+    "interval_s": 0.2
+  },
+  "server": {
+    "port": 5201,
+    "tcpdump": {
+      "enabled": false,
+      "interface": "auto",
+      "snaplen": 256
+    }
+  }
+}

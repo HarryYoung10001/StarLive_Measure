@@ -1,0 +1,1382 @@
+{
+  "period_s": 15.0,
+  "runs": {
+    "udp_downlink_latency_bandwidth_20260821T094332Z_001": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 13.3,
+          "candidates_s": [
+            13.3,
+            13.9,
+            14.6,
+            13.4,
+            14.5
+          ],
+          "confidence": 0.05665024630541888,
+          "score": 2.028468506277758,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 2.1,
+          "candidates_s": [
+            2.1,
+            2.2,
+            4.4,
+            4.5,
+            2.0
+          ],
+          "confidence": 0.008566620774055797,
+          "score": 2.747131523176693,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T143821Z_001": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 5.5,
+          "candidates_s": [
+            5.5,
+            5.4,
+            11.1,
+            11.0,
+            5.6
+          ],
+          "confidence": 0.16260162601626021,
+          "score": 8.541666666666666,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 5.9,
+          "candidates_s": [
+            5.9,
+            5.8,
+            2.3,
+            13.6,
+            13.2
+          ],
+          "confidence": 0.07276507276507278,
+          "score": 39.65256231545222,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T144301Z_002": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 13.1,
+          "candidates_s": [
+            13.1,
+            13.2,
+            3.8,
+            7.4,
+            13.0
+          ],
+          "confidence": 0.24999999999999992,
+          "score": 9.655172413793103,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 8.3,
+          "candidates_s": [
+            8.3,
+            7.2,
+            7.3,
+            8.4,
+            8.2
+          ],
+          "confidence": 0.03879892037786799,
+          "score": 33.31984351814332,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T144752Z_003": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 7.1,
+          "candidates_s": [
+            7.1,
+            6.9,
+            7.0,
+            0.1,
+            0.0
+          ],
+          "confidence": 0.21030042918454944,
+          "score": 9.246031746031747,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 7.1,
+          "candidates_s": [
+            7.1,
+            7.2,
+            7.0,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.07587279640511567,
+          "score": 65.04339223886106,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T145232Z_004": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 4.1,
+          "candidates_s": [
+            4.1,
+            4.2,
+            4.0,
+            4.6,
+            4.3
+          ],
+          "confidence": 0.16143497757847527,
+          "score": 10.324074074074074,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 9.1,
+          "candidates_s": [
+            9.1,
+            9.3,
+            9.2,
+            8.7,
+            8.8
+          ],
+          "confidence": 0.02305770104497954,
+          "score": 98.97027744053096,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T145714Z_005": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 11.2,
+          "candidates_s": [
+            11.2,
+            11.0,
+            11.1,
+            2.4,
+            9.1
+          ],
+          "confidence": 0.024999999999999977,
+          "score": 12.121212121212121,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 6.1,
+          "candidates_s": [
+            6.1,
+            9.0,
+            6.0,
+            8.8,
+            11.1
+          ],
+          "confidence": 0.020012378791004752,
+          "score": 27.24380592652557,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T150141Z_006": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 9.3,
+          "candidates_s": [
+            9.3,
+            9.2,
+            9.4,
+            9.1,
+            9.5
+          ],
+          "confidence": 0.04166666666666664,
+          "score": 11.666666666666666,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 10.3,
+          "candidates_s": [
+            10.3,
+            10.7,
+            6.1,
+            10.4,
+            10.8
+          ],
+          "confidence": 0.07825015403573617,
+          "score": 36.48995008768327,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T150605Z_007": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 11.0,
+          "candidates_s": [
+            11.0,
+            11.1,
+            10.9,
+            11.2,
+            10.2
+          ],
+          "confidence": 0.034482758620689585,
+          "score": 6.783625730994152,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 10.3,
+          "candidates_s": [
+            10.3,
+            10.2,
+            10.1,
+            7.9,
+            7.8
+          ],
+          "confidence": 0.1361445783132532,
+          "score": 37.321822024368394,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T180558Z_009": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 9.0,
+          "candidates_s": [
+            9.0,
+            9.1,
+            9.2,
+            8.9,
+            9.3
+          ],
+          "confidence": 0.010526315789473882,
+          "score": 5.864197530864198,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 8.5,
+          "candidates_s": [
+            8.5,
+            9.0,
+            9.6,
+            8.9,
+            9.5
+          ],
+          "confidence": 0.1881313131313131,
+          "score": 8.903278025091089,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T181023Z_010": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 14.5,
+          "candidates_s": [
+            14.5,
+            14.3,
+            14.4,
+            14.7,
+            14.0
+          ],
+          "confidence": 0.04347826086956518,
+          "score": 7.301587301587302,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 13.7,
+          "candidates_s": [
+            13.7,
+            13.6,
+            13.5,
+            14.3,
+            10.8
+          ],
+          "confidence": 0.01861702127659572,
+          "score": 25.36085255631961,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T181447Z_011": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 6.1,
+          "candidates_s": [
+            6.1,
+            5.9,
+            6.3,
+            6.0,
+            6.2
+          ],
+          "confidence": 0.29166666666666674,
+          "score": 8.115942028985508,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 2.6,
+          "candidates_s": [
+            2.6,
+            6.5,
+            6.2,
+            6.0,
+            2.7
+          ],
+          "confidence": 0.2830853563038371,
+          "score": 28.71082332838717,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T181911Z_012": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 10.2,
+          "candidates_s": [
+            10.2,
+            10.5,
+            10.1,
+            10.6,
+            10.7
+          ],
+          "confidence": 0.0338983050847458,
+          "score": 5.6190476190476195,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 11.4,
+          "candidates_s": [
+            11.4,
+            11.3,
+            11.2,
+            10.8,
+            10.7
+          ],
+          "confidence": 0.006641366223908817,
+          "score": 11.848554341472449,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T182336Z_013": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 11.8,
+          "candidates_s": [
+            11.8,
+            11.7,
+            11.6,
+            5.8,
+            11.2
+          ],
+          "confidence": 0.3216783216783216,
+          "score": 7.688172043010753,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 11.9,
+          "candidates_s": [
+            11.9,
+            11.8,
+            8.8,
+            8.9,
+            11.7
+          ],
+          "confidence": 0.03080390683696466,
+          "score": 59.84981339088902,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T182802Z_014": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 2.9,
+          "candidates_s": [
+            2.9,
+            12.5,
+            13.5,
+            12.3,
+            12.4
+          ],
+          "confidence": 0.23809523809523786,
+          "score": 9.459459459459458,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 6.7,
+          "candidates_s": [
+            6.7,
+            6.6,
+            6.8,
+            13.3,
+            6.5
+          ],
+          "confidence": 0.26361031518624634,
+          "score": 58.849318764334186,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T183227Z_015": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 3.2,
+          "candidates_s": [
+            3.2,
+            3.1,
+            9.9,
+            9.5,
+            9.6
+          ],
+          "confidence": 0.22916666666666677,
+          "score": 11.428571428571429,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 6.1,
+          "candidates_s": [
+            6.1,
+            13.0,
+            13.1,
+            6.2,
+            9.7
+          ],
+          "confidence": 0.06780150028851717,
+          "score": 77.92616574486291,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_downlink_latency_bandwidth_20260821T183648Z_016": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 5.0,
+          "candidates_s": [
+            5.0,
+            5.1,
+            4.9,
+            5.2,
+            7.3
+          ],
+          "confidence": 0.015384615384615087,
+          "score": 9.629629629629628,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 7.3,
+          "candidates_s": [
+            7.3,
+            7.2,
+            7.4,
+            11.2,
+            13.7
+          ],
+          "confidence": 0.02941176470588223,
+          "score": 57.33171455551079,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260819T191628Z_001": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 6.7,
+          "candidates_s": [
+            6.7,
+            6.6,
+            6.8,
+            7.1,
+            1.8
+          ],
+          "confidence": 0.17785234899328858,
+          "score": 5.153801187795533,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 7.0,
+          "candidates_s": [
+            7.0,
+            7.1,
+            6.9,
+            6.8,
+            7.2
+          ],
+          "confidence": 0.03643087613598355,
+          "score": 12.359983688505656,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T073520Z_001": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 9.9,
+          "candidates_s": [
+            9.9,
+            9.8,
+            4.9,
+            4.8,
+            9.7
+          ],
+          "confidence": 0.013661202185792268,
+          "score": 8.228787265614454,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 1.9,
+          "candidates_s": [
+            1.9,
+            2.0,
+            1.8,
+            2.1,
+            2.2
+          ],
+          "confidence": 0.09496402877697818,
+          "score": 23.43855389181166,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 2.9,
+          "candidates_s": [
+            2.9,
+            2.8,
+            11.4,
+            11.5,
+            7.0
+          ],
+          "confidence": 0.1284403668361249,
+          "score": 7.414965985186729,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T074038Z_002": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 5.1,
+          "candidates_s": [
+            5.1,
+            5.3,
+            10.1,
+            0.1,
+            0.2
+          ],
+          "confidence": 0.0671140939597314,
+          "score": 6.699941544134173,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 5.2,
+          "candidates_s": [
+            5.2,
+            5.1,
+            5.3,
+            5.4,
+            5.0
+          ],
+          "confidence": 0.10524636201174355,
+          "score": 15.315827854317785,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 7.8,
+          "candidates_s": [
+            7.8,
+            7.9,
+            6.8,
+            6.9,
+            7.0
+          ],
+          "confidence": 0.03267973843778039,
+          "score": 9.44444444259259,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T074605Z_003": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 13.8,
+          "candidates_s": [
+            13.8,
+            13.7,
+            8.8,
+            8.7,
+            13.9
+          ],
+          "confidence": 0.09844559585492225,
+          "score": 8.678447771932184,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 0.4,
+          "candidates_s": [
+            0.4,
+            0.5,
+            0.6,
+            0.3,
+            8.7
+          ],
+          "confidence": 0.10132328050469304,
+          "score": 32.47048478398853,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 1.7,
+          "candidates_s": [
+            1.7,
+            1.5,
+            1.3,
+            1.6,
+            1.8
+          ],
+          "confidence": 0.01136363658832642,
+          "score": 6.666666666666667,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T075423Z_004": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 5.7,
+          "candidates_s": [
+            5.7,
+            5.8,
+            0.8,
+            0.7,
+            10.8
+          ],
+          "confidence": 0.004149377593361004,
+          "score": 10.836818202257286,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 13.2,
+          "candidates_s": [
+            13.2,
+            13.1,
+            10.7,
+            10.8,
+            13.0
+          ],
+          "confidence": 0.0026034886748242912,
+          "score": 15.701327316058174,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 12.5,
+          "candidates_s": [
+            12.5,
+            12.6,
+            12.4,
+            12.7,
+            0.0
+          ],
+          "confidence": 0.0,
+          "score": 6.666666666666667,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T075951Z_005": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 10.2,
+          "candidates_s": [
+            10.2,
+            10.3,
+            5.2,
+            10.1,
+            0.4
+          ],
+          "confidence": 0.10401891252955082,
+          "score": 9.510319708619985,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 0.7,
+          "candidates_s": [
+            0.7,
+            0.6,
+            1.1,
+            1.0,
+            0.8
+          ],
+          "confidence": 0.0833412434741338,
+          "score": 33.83695310040905,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 10.1,
+          "candidates_s": [
+            10.1,
+            10.2,
+            10.0,
+            10.3,
+            0.1
+          ],
+          "confidence": 0.0,
+          "score": 9.999999949999998,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T080508Z_006": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 0.5,
+          "candidates_s": [
+            0.5,
+            0.6,
+            5.5,
+            0.7,
+            5.6
+          ],
+          "confidence": 0.04794520547945205,
+          "score": 9.847565088358282,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 4.5,
+          "candidates_s": [
+            4.5,
+            4.4,
+            4.8,
+            4.6,
+            4.9
+          ],
+          "confidence": 0.0950330388299059,
+          "score": 27.52944254360682,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T081101Z_007": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 11.8,
+          "candidates_s": [
+            11.8,
+            11.9,
+            6.8,
+            1.8,
+            11.7
+          ],
+          "confidence": 0.02030456852791862,
+          "score": 8.858311974459275,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 6.6,
+          "candidates_s": [
+            6.6,
+            6.7,
+            6.5,
+            6.8,
+            7.3
+          ],
+          "confidence": 0.034221187828635424,
+          "score": 28.980619632177987,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 6.6,
+          "candidates_s": [
+            6.6,
+            6.7,
+            6.5,
+            6.8,
+            0.0
+          ],
+          "confidence": 0.0,
+          "score": 6.666666666666666,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T081619Z_008": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 3.6,
+          "candidates_s": [
+            3.6,
+            3.7,
+            13.6,
+            8.6,
+            3.5
+          ],
+          "confidence": 0.15346534653465346,
+          "score": 9.08314222761814,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 5.3,
+          "candidates_s": [
+            5.3,
+            5.2,
+            5.4,
+            8.5,
+            5.1
+          ],
+          "confidence": 0.016720604099245036,
+          "score": 35.72873908770311,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T082133Z_009": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 5.4,
+          "candidates_s": [
+            5.4,
+            5.5,
+            0.5,
+            5.3,
+            0.4
+          ],
+          "confidence": 0.13397129186602877,
+          "score": 9.397904582040551,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 10.3,
+          "candidates_s": [
+            10.3,
+            0.3,
+            0.8,
+            10.4,
+            0.4
+          ],
+          "confidence": 0.017291066282420654,
+          "score": 37.05764647690974,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 0.3,
+          "candidates_s": [
+            0.3,
+            0.4,
+            0.2,
+            0.5,
+            0.6
+          ],
+          "confidence": 5.999999874953764e-09,
+          "score": 8.333333308333332,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T082712Z_010": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 3.6,
+          "candidates_s": [
+            3.6,
+            8.6,
+            3.5,
+            3.7,
+            13.6
+          ],
+          "confidence": 0.1693735498839906,
+          "score": 9.690183911147075,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 11.0,
+          "candidates_s": [
+            11.0,
+            10.8,
+            10.7,
+            11.1,
+            8.5
+          ],
+          "confidence": 0.04052532833020646,
+          "score": 22.468973425063957,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 3.6,
+          "candidates_s": [
+            3.6,
+            3.7,
+            3.5,
+            3.8,
+            6.7
+          ],
+          "confidence": 0.0,
+          "score": 10.0,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T083243Z_011": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 4.6,
+          "candidates_s": [
+            4.6,
+            4.7,
+            9.6,
+            14.7,
+            9.7
+          ],
+          "confidence": 0.042505592841163474,
+          "score": 10.049912316201262,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 2.6,
+          "candidates_s": [
+            2.6,
+            2.7,
+            2.5,
+            2.8,
+            2.9
+          ],
+          "confidence": 0.1626122113342013,
+          "score": 32.80947884347318,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 2.1,
+          "candidates_s": [
+            2.1,
+            2.2,
+            2.0,
+            2.3,
+            4.6
+          ],
+          "confidence": 0.0,
+          "score": 6.666666666666666,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T083905Z_012": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 13.2,
+          "candidates_s": [
+            13.2,
+            3.3,
+            3.2,
+            13.3,
+            3.1
+          ],
+          "confidence": 0.10068649885583525,
+          "score": 9.825082063042395,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 7.9,
+          "candidates_s": [
+            7.9,
+            8.0,
+            7.8,
+            8.1,
+            8.2
+          ],
+          "confidence": 0.18112083174844681,
+          "score": 29.55393677773283,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T084501Z_013": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 12.8,
+          "candidates_s": [
+            12.8,
+            12.9,
+            12.7,
+            2.8,
+            2.7
+          ],
+          "confidence": 0.14714714714714708,
+          "score": 14.9736948603804,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 8.2,
+          "candidates_s": [
+            8.2,
+            8.3,
+            8.4,
+            8.1,
+            8.5
+          ],
+          "confidence": 0.23196151790486363,
+          "score": 37.391769214243304,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": 2.7,
+          "candidates_s": [
+            2.7,
+            2.8,
+            2.6,
+            2.9,
+            0.0
+          ],
+          "confidence": 0.0,
+          "score": 6.666666666666667,
+          "status": "ok"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T085053Z_014": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 4.0,
+          "candidates_s": [
+            4.0,
+            4.1,
+            3.9,
+            14.0,
+            14.1
+          ],
+          "confidence": 0.0799180327868853,
+          "score": 10.971716354152607,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 13.4,
+          "candidates_s": [
+            13.4,
+            13.5,
+            14.0,
+            13.3,
+            13.9
+          ],
+          "confidence": 0.18469928080297163,
+          "score": 27.093116125896454,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    },
+    "udp_uplink_latency_bandwidth_20260820T085621Z_015": {
+      "metrics": {
+        "bandwidth": {
+          "b_s": 8.7,
+          "candidates_s": [
+            8.7,
+            13.8,
+            13.7,
+            8.8,
+            8.6
+          ],
+          "confidence": 0.01265822784810119,
+          "score": 8.880794999775162,
+          "status": "ok"
+        },
+        "latency": {
+          "b_s": 0.9,
+          "candidates_s": [
+            0.9,
+            0.8,
+            1.1,
+            1.0,
+            1.3
+          ],
+          "confidence": 0.12822387662855628,
+          "score": 30.74860298656329,
+          "status": "ok"
+        },
+        "loss": {
+          "b_s": null,
+          "candidates_s": [
+            0.0,
+            0.1,
+            0.2,
+            0.3,
+            0.4
+          ],
+          "confidence": 0.0,
+          "score": 0.0,
+          "status": "insufficient_signal"
+        }
+      }
+    }
+  },
+  "schema_version": 2
+}

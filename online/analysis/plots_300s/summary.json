@@ -1,0 +1,17 @@
+{
+  "source": "/Users/bytedance/projects/Starlink_Measure/online/data/281475060019287-temp_page-push_stream-查询24.csv",
+  "window_start_utc": "2026-08-17T13:25:00.000+00:00",
+  "window_end_utc_exclusive": "2026-08-17T13:30:00.000+00:00",
+  "duration_s": 300,
+  "selected_streams": 10,
+  "available_streams_in_window": 21,
+  "min_samples": 30,
+  "geo_cache_entries": 21,
+  "outputs": [
+    "selected_streams_300s.csv",
+    "stream_metrics_300s.csv",
+    "time_rtt.png",
+    "time_bandwidth.png",
+    "time_realbitrate.png"
+  ]
+}

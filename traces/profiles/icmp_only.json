@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "name": "icmp_only",
+  "workload": {
+    "kind": "icmp",
+    "direction": "none",
+    "duration_s": 150,
+    "interval_s": 0.2
+  },
+  "roles": {
+    "required": ["icmp_phone"],
+    "optional": []
+  },
+  "icmp": {
+    "enabled": true,
+    "interval_s": 0.2
+  },
+  "server": {
+    "port": 5201,
+    "tcpdump": {
+      "enabled": false,
+      "interface": "auto",
+      "snaplen": 256
+    }
+  }
+}

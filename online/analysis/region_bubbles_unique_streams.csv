@@ -1,0 +1,97 @@
+country,country_code,region,value,latitude,longitude,location_method,location_note
+Japan,JP,Tokyo,151.0,35.6578,139.407,admin1:Tokyo,match_score:1.00
+Sri Lanka,LK,Western Province,90.0,6.9,80.0,alias: Western Province center,
+Vanuatu,VU,Shefa Province,123.0,-16.7385,168.301,admin1:Shefa,match_score:1.00
+Timor-Leste,TL,Díli,137.0,-8.55429,125.668,admin1:Dili,match_score:1.00
+Papua New Guinea,PG,National Capital,121.0,-9.4476,147.174,admin1:Port Moresby,match_score:0.98
+Malaysia,MY,Kuala Lumpur,135.0,3.13836,101.698,admin1:Kuala Lumpur,match_score:1.00
+Australia,AU,Victoria,51.0,-37.0082,144.75,admin1:Victoria,match_score:1.00
+Argentina,AR,Buenos Aires F.D.,49.0,-34.62,-58.45,alias: Buenos Aires city,
+Zambia,ZM,Lusaka Province,65.0,-15.4426,29.0846,admin1:Lusaka,match_score:1.00
+Indonesia,ID,East Java,88.0,-7.88129,112.616,admin1:East Java,match_score:1.00
+Australia,AU,New South Wales,44.0,-32.4751,146.781,admin1:New South Wales,match_score:1.00
+Kazakhstan,KZ,Almaty,94.0,43.24,76.95,alias: Almaty city,
+Suriname,SR,Distrikt Paramaribo,44.0,5.84317,-55.1707,admin1:Paramaribo,match_score:1.00
+United States,US,California,42.0,36.7496,-119.591,admin1:California,match_score:1.00
+Mongolia,MN,Ulaanbaatar Hot,61.0,47.9597,106.967,admin1:Ulaanbaatar,match_score:1.00
+New Zealand,NZ,Auckland,33.0,-36.6334,174.597,admin1:Auckland,match_score:1.00
+Fiji,FJ,Central,29.0,-18.3823,178.132,admin1:Central,match_score:1.00
+Philippines,PH,National Capital Region,43.0,14.6,121.0,alias: Metro Manila,
+Myanmar,MM,Rangoon,58.0,17.1117,96.111,admin1:Yangon,match_score:0.91
+Indonesia,ID,Jakarta,53.0,-6.22462,106.837,admin1:Jakarta,match_score:1.00
+United States,US,New York,18.0,43.1988,-75.3242,admin1:New York,match_score:1.00
+Jamaica,JM,Kingston,17.0,17.9799,-76.7653,admin1:Kingston,match_score:1.00
+DR Congo,CD,Kinshasa,42.0,-4.49522,15.8492,admin1:Kinshasa,match_score:1.00
+Australia,AU,Western Australia,15.0,-25.8483,121.646,admin1:Western Australia,match_score:1.00
+Canada,CA,Manitoba,14.0,54.85,-97.3828,admin1:Manitoba,match_score:1.00
+United States,US,Massachusetts,11.0,42.3739,-71.9993,admin1:Massachusetts,match_score:1.00
+Bolivia,BO,Departamento de Santa Cruz,20.0,-16.5168,-61.137,admin1:Santa Cruz,match_score:1.00
+Italy,IT,Lombardy,19.0,45.46,9.19,alias: Milan,
+France,FR,Île-de-France,22.0,48.85,2.35,alias: Paris,
+Canada,CA,Alberta,13.0,55.2816,-115.0,admin1:Alberta,match_score:1.00
+Kiribati,KI,Gilbert Islands,23.0,1.45,173.0,alias: Gilbert Islands center,
+Peru,PE,Lima,33.0,-12.05,-77.04,alias: Lima city,
+Indonesia,ID,Riau Islands,11.0,-0.142639,104.601,admin1:Riau Islands,match_score:1.00
+Tajikistan,TJ,Dushanbe,21.0,38.56,68.78,alias: Dushanbe,
+Germany,DE,Land Berlin,14.0,52.5131,13.4213,admin1:Berlin,match_score:1.00
+Spain,ES,Madrid,7.0,40.4593,-3.67012,admin1:Community of Madrid,match_score:1.00
+Nigeria,NG,Lagos,18.0,6.43313,3.52478,admin1:Lagos,match_score:1.00
+Cameroon,CM,Centre,7.0,4.73268,11.7383,admin1:Centre,match_score:1.00
+Canada,CA,Saskatchewan,5.0,54.4965,-105.682,admin1:Saskatchewan,match_score:1.00
+United States,US,Montana,3.0,46.9965,-110.044,admin1:Montana,match_score:1.00
+Mexico,MX,Mexico City,13.0,19.43,-99.13,alias: Mexico City,
+Vietnam,VN,Ho Chi Minh,5.0,10.409,106.926,admin1:Ho Chi Minh,match_score:1.00
+Guyana,GY,Demerara-Mahaica Region,18.0,6.56415,-58.0942,admin1:East Berbice-Corentyne,match_score:1.00
+Belgium,BE,Brussels Capital,3.0,50.8332,4.36266,admin1:Brussels Capital,match_score:1.00
+United States,US,Utah,2.0,39.5007,-111.544,admin1:Utah,match_score:1.00
+Canada,CA,British Columbia,5.0,54.6943,-124.662,admin1:British Columbia,match_score:1.00
+Samoa,WS,Tuamasaga,9.0,-13.84,-171.77,alias: Apia,
+Zimbabwe,ZW,Harare,17.0,-17.8928,31.0506,admin1:Harare,match_score:1.00
+Maldives,MV,Kaafu Atoll,17.0,4.35708,73.6135,admin1:Kaafu Atoll,match_score:1.00
+Kyrgyzstan,KG,Gorod Bishkek,5.0,42.8424,74.5877,admin1:Bishkek,match_score:1.00
+Ghana,GH,Greater Accra Region,19.0,5.83921,0.105309,admin1:Greater Accra,match_score:1.00
+Canada,CA,Quebec,4.0,52.2593,-73.7168,admin1:Quebec,match_score:1.00
+Georgia,GE,K'alak'i T'bilisi,3.0,41.7153,44.845,admin1:Tbilisi,match_score:1.00
+Denmark,DK,Capital Region,3.0,55.85,12.35,alias: Copenhagen,
+United Kingdom,GB,England,5.0,52.35,-1.5,alias: England center,
+Tanzania,TZ,Dodoma,5.0,-5.73233,35.9608,admin1:Dodoma,match_score:1.00
+United Arab Emirates,AE,Dubai,13.0,24.9508,55.3436,admin1:Emirate of Dubai,match_score:0.91
+United States,US,Texas,4.0,31.131,-98.7607,admin1:Texas,match_score:1.00
+Sweden,SE,Stockholm,1.0,59.3659,17.8652,admin1:Stockholm,match_score:1.00
+Canada,CA,Ontario,3.0,50.5244,-84.7943,admin1:Ontario,match_score:1.00
+El Salvador,SV,Departamento de San Salvador,5.0,13.713,-89.1488,admin1:San Salvador,match_score:1.00
+Sint Maarten,SX,Unknown,3.0,18.04,-63.05,alias: Sint Maarten center,
+Svalbard and Jan Mayen,SJ,Svalbard,1.0,78.22,15.65,alias: Longyearbyen,
+Oman,OM,Muscat,6.0,23.2505,58.6759,admin1:Muscat,match_score:1.00
+New Zealand,NZ,Canterbury,4.0,-43.4,171.813,admin1:Canterbury,match_score:1.00
+United States,US,Nevada,1.0,39.4299,-117.02,admin1:Nevada,match_score:1.00
+United States,US,New Jersey,4.0,40.0449,-74.4653,admin1:New Jersey,match_score:1.00
+Albania,AL,Tirana,1.0,41.1326,19.8383,admin1:Tirana,match_score:1.00
+South Korea,KR,Seoul,1.0,37.5408,126.994,admin1:Seoul,match_score:1.00
+Ivory Coast,CI,Abidjan Autonomous District,1.0,5.35,-4.02,alias: Abidjan,
+United States,US,Colorado,2.0,38.9998,-105.543,admin1:Colorado,match_score:1.00
+United States,US,Georgia,1.0,32.8547,-83.4078,admin1:Georgia,match_score:1.00
+Northern Mariana Islands,MP,Saipan,3.0,15.1921,145.744,admin1:Saipan,match_score:1.00
+Madagascar,MG,Analamanga Region,59.0,-18.4743,47.481,admin1:Antananarivo,match_score:1.00
+United States,US,Washington,2.0,47.4865,-120.361,admin1:Washington,match_score:1.00
+Solomon Islands,SB,Honiara,2.0,-9.44658,160.019,admin1:Honiara,match_score:1.00
+Chile,CL,Santiago Metropolitan,3.0,-33.4568,-70.7527,admin1:Santiago,match_score:0.98
+Guinea,GN,Conakry Region,6.0,9.5392,-13.6847,admin1:Conakry,match_score:1.00
+Venezuela,VE,Distrito Federal,5.0,10.4857,-66.964,admin1:Capital,match_score:0.98
+United States,US,Oregon,2.0,43.8333,-120.386,admin1:Oregon,match_score:1.00
+Mozambique,MZ,Cidade de Maputo,2.0,-25.949,32.5828,admin1:Maputo,match_score:1.00
+Niger,NE,Niamey,11.0,13.562,2.12167,admin1:Niamey,match_score:1.00
+Qatar,QA,Baladīyat ad Dawḩah,4.0,25.2686,51.5282,admin1:Doha,match_score:1.00
+Rwanda,RW,Kigali,2.0,-1.92643,30.1253,admin1:Kigali,match_score:1.00
+Australia,AU,Queensland,1.0,-23.1364,144.778,admin1:Queensland,match_score:1.00
+United States,US,Wyoming,3.0,42.9999,-107.552,admin1:Wyoming,match_score:1.00
+Brazil,BR,São Paulo,1.0,-22.2267,-48.5206,admin1:São Paulo,match_score:1.00
+Senegal,SN,Dakar,1.0,14.7835,-17.3327,admin1:Dakar,match_score:1.00
+Greece,GR,Attica,1.0,38.0626,23.7997,admin1:Attica,match_score:1.00
+Nauru,NR,Yaren,1.0,-0.543159,166.925,admin1:Yaren,match_score:1.00
+Liberia,LR,Montserrado County,1.0,6.43188,-10.5806,admin1:Montserrado,match_score:1.00
+United States,US,Missouri,1.0,38.5487,-92.446,admin1:Missouri,match_score:1.00
+Azerbaijan,AZ,Baku City,2.0,40.4447,50.0435,admin1:Baku,match_score:1.00
+Iraq,IQ,Baghdad,1.0,33.306,44.3827,admin1:Baghdad,match_score:1.00
+Benin,BJ,Ouémé,1.0,6.59423,2.55171,admin1:Ouémé,match_score:1.00
+Botswana,BW,Gaborone,1.0,-24.6239,25.9171,admin1:Gaborone,match_score:1.00

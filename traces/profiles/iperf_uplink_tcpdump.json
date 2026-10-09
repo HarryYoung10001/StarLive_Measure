@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "name": "iperf_uplink_tcpdump",
+  "workload": {
+    "kind": "iperf3",
+    "direction": "uplink",
+    "rate": "20M",
+    "duration_s": 150,
+    "interval_s": 0.2,
+    "payload_bytes": 1200
+  },
+  "roles": {
+    "required": ["udp_sender"],
+    "optional": ["icmp_phone"]
+  },
+  "icmp": {
+    "enabled": true,
+    "interval_s": 0.2
+  },
+  "server": {
+    "port": 5201,
+    "tcpdump": {
+      "enabled": true,
+      "interface": "auto",
+      "snaplen": 256
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "source": "online/data/281475060019287-temp_page-push_stream-查询24.csv",
+  "rows": 1620771,
+  "unique_client_ips": 1770,
+  "unique_streams": 2139,
+  "geolocated_rows": 1620771,
+  "geolocated_row_share_pct": 100.0,
+  "unique_cdn_names": 7,
+  "unique_cdn_isps": 57,
+  "missing_cdn_isp_rows": 66,
+  "min_timestamp_utc": "2026-08-10T15:59:57.169000+00:00",
+  "max_timestamp_utc": "2026-08-25T15:59:59.836000+00:00"
+}

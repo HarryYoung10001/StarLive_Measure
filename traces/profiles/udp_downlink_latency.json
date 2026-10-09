@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "name": "udp_downlink_latency",
+  "workload": {
+    "kind": "udp_flow",
+    "direction": "downlink",
+    "rate": "333.333333333pps",
+    "duration_s": 150,
+    "interval_s": 0.2,
+    "payload_bytes": 1200,
+    "postprocess": "latency",
+    "window_ms": 10
+  },
+  "roles": {
+    "required": ["udp_receiver"],
+    "optional": ["icmp_phone"]
+  },
+  "icmp": {
+    "enabled": true,
+    "interval_s": 0.2
+  },
+  "server": {
+    "port": 5003,
+    "tcpdump": {
+      "enabled": false,
+      "interface": "auto",
+      "snaplen": 256
+    }
+  }
+}
